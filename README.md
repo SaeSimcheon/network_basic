@@ -1,5 +1,8 @@
 # network_basic
 
+##강의
+https://youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi
+
 ### 첫 미팅
 미리 고민해오기
 
